@@ -47,6 +47,7 @@ You can run this app with and without docker
 1. `docker run -d -p 8080:8080 rofl256/whiteboard`
 2. Surf to http://YOURIP:8080
 
+
 ## Development
 
 After you have installed the app, run `npm run start:dev` to start the backend and a frontend development server. The website will be accessible on http://locahost:8080.

@@ -139,6 +139,7 @@ Then set the same token on the client side as well:
 
 Done!
 
+
 #### REST API
 
 You can fully control the whiteboard through a REST API. Explore and test the API for your server version by surfing to: `[yourRootWhiteboardUrl]/apidoc/index.html`
